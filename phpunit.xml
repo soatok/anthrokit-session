@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Anthrokit Session">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
